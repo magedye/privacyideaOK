@@ -1,5 +1,8 @@
 # Update Notes
 
+📌 [عرض المهام التفصيلية الأمنية الكاملة للمشروع](docs/SECURITY_PLAN.md) 
+📌 [عرض التغطية الأمنية الكاملة للمشروع](docs/SECURITY_OVERVIEW.md)
+
 ## Update from 3.11 to 3.12
 * The behaviour of the Certificate Token changes when the certificate key-pair is created by privacyIDEA.
   The secret key will not be saved to the tokeninfo anymore. Instead, only the PKCS12 container will contain
